@@ -1,83 +1,134 @@
-# 100Hires Portfolio Setup
+# 100Hires Research Project – Cold Outreach Pipeline for B2B SaaS
 
 ## Overview
 
-This project is part of the 100Hires hiring process. The goal is to set up a development environment, document the process, and demonstrate problem-solving and self-learning ability.
+This repository documents my research on building an effective **cold outreach pipeline for B2B SaaS**.
+
+The goal of this project is not just to collect information, but to synthesize insights from real practitioners into a structured foundation for a future playbook.
 
 ---
 
-## Tools Installed
+## Why I Chose This Topic
 
-* Cursor IDE
-* Attempted to set up Claude (Anthropic)
-* Attempted to install Codex extension
-* GitHub account & repository
+Cold outreach remains one of the most scalable and controllable growth channels in B2B SaaS.
 
----
+However, most failures in outbound are not caused by tools — but by weak fundamentals such as:
 
-## Steps Completed
+* poor targeting
+* weak offers
+* lack of alignment between teams
+* inconsistent execution
 
-1. Installed Cursor IDE from https://cursor.com
-2. Explored extensions inside Cursor
-3. Attempted to install "Claude Code" extension
-4. Attempted to install "Codex" extension
-5. Created a GitHub repository
-6. Opened repository in Cursor
-7. Created README.md file
-8. Committed and pushed to GitHub
+This research focuses on understanding what actually works from operators who actively build and scale outbound systems.
 
 ---
 
-## Issues Encountered & Solutions
+## Research Approach
 
-### 1. Claude API Key not available
+Instead of collecting generic advice, I selected **10 high-signal experts** who:
 
-* Issue:
-  Unable to generate API key from Anthropic because it requires billing setup.
+* actively operate in B2B SaaS or outbound systems
+* share real-world execution strategies (not theory)
+* consistently publish actionable insights
 
-* Solution:
-  After researching, I found that Claude integration may require payment configuration.
-  Instead of blocking progress, I continued using available tools in Cursor.
+For each expert, I:
 
----
-
-### 2. "Claude Code" extension not found
-
-* Issue:
-  The extension named "Claude Code" could not be found in Cursor.
-
-* Solution:
-  Discovered that Claude is not always provided as a standalone extension.
-  It can be integrated via API or already available in supported environments.
+* collected recent LinkedIn content
+* extracted key insights
+* identified patterns across their thinking
+* mapped relevance to cold outreach pipelines
 
 ---
 
-### 3. "Codex" extension not found
+## Repository Structure
 
-* Issue:
-  The "Codex" extension could not be found in Cursor extension marketplace.
+```
+/research
+  ├── sources.md
+  ├── linkedin-posts/
+  │     ├── alex-berman.md
+  │     ├── josh-braun.md
+  │     ├── morgan-ingram.md
+  │     ├── kevin-dorsey.md
+  │     ├── kyle-coleman.md
+  │     ├── will-allred.md
+  │     ├── nick-abraham.md
+  │     ├── tristan-pelligrino.md
+  │     ├── daniel-fazio.md
+```
 
-* Solution:
-  Learned that Codex is deprecated and replaced by newer AI models.
-  Proceeded using available tools without blocking the workflow.
+---
+
+## Key Insights Across Experts
+
+After analyzing all sources, several consistent patterns emerged:
+
+### 1. Offer > Tools
+
+Strong offers drive results more than AI, copywriting, or automation tools.
+
+### 2. Systems > Individuals
+
+High-performing outbound is system-driven (data, workflows, automation), not dependent on individual reps.
+
+### 3. AI is an Amplifier, Not a Fix
+
+AI increases scale and efficiency, but cannot compensate for weak fundamentals.
+
+### 4. Buyer-Centric Approach Wins
+
+Successful outreach aligns with the buyer’s process, not internal sales processes.
+
+### 5. Alignment Drives Pipeline Quality
+
+Marketing, Sales, and CS must operate with shared insights to generate high-quality pipeline.
+
+### 6. Adoption > Technology
+
+Teams that adapt workflows outperform those who only adopt tools.
+
+### 7. Monetization Matters
+
+Strong outbound systems enable value-based pricing and better revenue capture.
+
+---
+
+## Why These Experts
+
+The selected experts represent different layers of a complete outbound system:
+
+* System & scale (Alex Berman)
+* Communication & psychology (Josh Braun)
+* Pipeline & alignment (Morgan Ingram)
+* Conversion (Kevin Dorsey)
+* AI & automation (Kyle Coleman, Will Allred)
+* Offer strategy (Nick Abraham)
+* Execution & adoption (Tristan Pelligrino)
+* Monetization (Daniel Fazio)
+
+Together, they form a **complete perspective on building and scaling outbound pipelines**.
 
 ---
 
 ## Key Learnings
 
-* Not all instructions are always directly executable
-* Research and adaptability are critical in development workflows
-* It is important to continue progress even when facing incomplete or outdated instructions
+Through this project, I learned that:
+
+* outbound success is a combination of strategy, systems, and execution
+* most problems are not technical, but operational
+* high-quality insights come from practitioners, not aggregated content
+* consistency and structure matter more than volume
 
 ---
 
 ## Conclusion
 
-Despite some limitations, I successfully completed the setup process and documented all steps and decisions.
+This repository is designed to serve as a foundation for building a real-world outbound playbook.
 
-This project reflects my ability to:
+Rather than collecting surface-level information, the focus was on:
 
-* Learn independently
-* Troubleshoot issues
-* Adapt to real-world constraints
-* Deliver results under time constraints
+* identifying high-signal sources
+* extracting actionable insights
+* structuring knowledge for practical application
+
+The next step would be to convert these insights into a step-by-step outbound execution framework.
