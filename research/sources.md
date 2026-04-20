@@ -8,184 +8,184 @@ Link: https://www.youtube.com/@AlexBerman
 Focus: Cold email systems & outbound automation  
 
 Why selected:  
-Actively runs outbound campaigns and shares tested frameworks for cold email.
+Actively runs outbound campaigns and shares proven frameworks based on real execution.
 
 Content reference:  
-Multiple YouTube videos discussing short cold emails and direct offers.
+YouTube videos on short-form cold emails, direct offers, and scaling outbound systems.
 
 Key insight:  
-Cold emails perform better when they are concise, direct, and focused on one clear outcome.
+Cold emails perform better when they are concise, direct, and focused on a single outcome.
 
 Reasoning:  
-Across his videos, he repeatedly emphasizes simplicity and clarity over long-form messaging.
+Across multiple videos, he consistently emphasizes simplicity, clarity, and volume over complexity.
 
 ---
 
 ## Josh Braun
 Platform: LinkedIn  
 Link: https://www.linkedin.com/in/joshbraun/  
-Focus: Sales mindset & human-centered outreach  
+Focus: Sales psychology & human-centered outreach  
 
 Why selected:  
-Shares real-world sales communication strategies focused on trust and empathy.
+Provides practical communication strategies rooted in buyer psychology and trust-building.
 
 Content reference:  
-Common theme in posts: “Nobody wants to be sold. They want to feel understood.”
+Posts focused on reframing outreach as conversations, not sales pitches.
 
 Key insight:  
-Effective outreach prioritizes understanding the prospect rather than pitching aggressively.
+Effective outreach reduces resistance by focusing on understanding rather than persuasion.
 
 Reasoning:  
-His content consistently reframes outreach as conversation instead of persuasion.
-
----
-
-## Justin Welsh
-Platform: LinkedIn  
-Link: https://www.linkedin.com/in/justinwelsh/  
-Focus: B2B audience building & outbound  
-
-Why selected:  
-Builds and monetizes audience while sharing practical outbound and content strategies.
-
-Content reference:  
-Posts about building authority before monetization.
-
-Key insight:  
-Trust and credibility significantly improve outbound conversion rates.
-
-Reasoning:  
-His strategy consistently links audience trust with higher response and conversion.
-
----
-
-## Daniel Fazio
-Platform: LinkedIn  
-Link: https://www.linkedin.com/in/danielfazio/  
-Focus: Growth & outbound strategy  
-
-Why selected:  
-Focuses on scalable outbound processes used in SaaS growth.
-
-Content reference:  
-Posts discussing outbound volume and pipeline consistency.
-
-Key insight:  
-Consistent outreach volume is critical to building a predictable pipeline.
-
-Reasoning:  
-He emphasizes repeatable systems over one-off campaigns.
-
----
-
-## Nick Abraham
-Platform: LinkedIn  
-Link: https://www.linkedin.com/in/nick-abraham/  
-Focus: Outbound systems  
-
-Why selected:  
-Shares structured outbound frameworks and execution tactics.
-
-Content reference:  
-Posts highlighting follow-up strategies.
-
-Key insight:  
-Follow-ups are responsible for the majority of outbound conversions.
-
-Reasoning:  
-Repeated emphasis that first touch rarely converts without persistence.
-
----
-
-## Tristan Pelligrino
-Platform: LinkedIn  
-Link: https://www.linkedin.com/in/tristanpelligrino/  
-Focus: B2B marketing & messaging  
-
-Why selected:  
-Strong focus on ICP clarity and messaging alignment.
-
-Content reference:  
-Posts about defining target audience and messaging.
-
-Key insight:  
-Clear ICP definition significantly improves outreach effectiveness.
-
-Reasoning:  
-Messaging becomes more relevant when targeting is precise.
-
----
-
-## Kevin Dorsey
-Platform: LinkedIn  
-Link: https://www.linkedin.com/in/kevindorsey/  
-Focus: Sales leadership & execution  
-
-Why selected:  
-Leads SaaS sales teams and shares operational insights.
-
-Content reference:  
-Posts on sales consistency and process discipline.
-
-Key insight:  
-Consistent execution matters more than individual tactics.
-
-Reasoning:  
-He emphasizes process reliability over “hacks”.
-
----
-
-## Kyle Coleman
-Platform: LinkedIn  
-Link: https://www.linkedin.com/in/kylecoleman1/  
-Focus: Revenue operations  
-
-Why selected:  
-Deep expertise in aligning sales and marketing systems.
-
-Content reference:  
-Posts about pipeline alignment and revenue systems.
-
-Key insight:  
-Alignment between marketing and sales improves conversion efficiency.
-
-Reasoning:  
-Pipeline performance depends on cross-team coordination.
+His content consistently shows that tone, framing, and empathy significantly impact response rates.
 
 ---
 
 ## Morgan J Ingram
 Platform: LinkedIn  
 Link: https://www.linkedin.com/in/morganjingram/  
-Focus: Sales training & prospecting  
+Focus: Prospecting, pipeline generation & multi-channel outreach  
 
 Why selected:  
-Specializes in outbound prospecting and multi-channel strategy.
+Actively trains sales teams and shares real-world outbound execution strategies.
 
 Content reference:  
-Posts on combining LinkedIn, email, and video outreach.
+Posts on aligning marketing, sales, and customer success to generate quality pipeline.
 
 Key insight:  
-Multi-channel outreach increases response rates.
+Pipeline quality improves when all teams operate with shared buyer insights.
 
 Reasoning:  
-Different channels reinforce each other in prospect engagement.
+He repeatedly highlights that context and alignment outperform isolated outbound efforts.
+
+---
+
+## Kevin Dorsey
+Platform: LinkedIn  
+Link: https://www.linkedin.com/in/kevindorsey/  
+Focus: Sales execution & buyer journey  
+
+Why selected:  
+Experienced sales leader focused on improving conversion and deal velocity.
+
+Content reference:  
+Posts comparing sales process vs buying process.
+
+Key insight:  
+Outbound and sales perform better when aligned with the buyer’s process, not internal workflows.
+
+Reasoning:  
+He consistently emphasizes reducing friction by guiding buyers instead of forcing steps.
+
+---
+
+## Kyle Coleman
+Platform: LinkedIn  
+Link: https://www.linkedin.com/in/kylecoleman1/  
+Focus: Revenue systems & pipeline generation  
+
+Why selected:  
+Shares insights from operating modern revenue teams using AI and structured outbound systems.
+
+Content reference:  
+Posts on combining human SDRs with AI-driven pipeline generation.
+
+Key insight:  
+Scalable outbound requires combining AI automation with human sales execution.
+
+Reasoning:  
+His content demonstrates how systems and orchestration outperform manual processes alone.
 
 ---
 
 ## Will Allred
 Platform: LinkedIn  
 Link: https://www.linkedin.com/in/willallred/  
-Focus: Cold email & deliverability  
+Focus: Email deliverability & outbound infrastructure  
 
 Why selected:  
-Focuses on email performance and deliverability optimization.
+Expert in technical aspects of cold email performance and delivery systems.
 
 Content reference:  
-Posts about personalization and deliverability.
+Posts discussing AI, workflows, and system efficiency.
 
 Key insight:  
-Email personalization and deliverability directly impact open and reply rates.
+Outbound performance depends on system design and infrastructure, not just messaging.
 
 Reasoning:  
-Even strong messaging fails without proper delivery and targeting.
+He consistently connects technical execution with overall outbound effectiveness.
+
+---
+
+## Nick Abraham
+Platform: LinkedIn  
+Link: https://www.linkedin.com/in/nick-abraham/  
+Focus: Offer strategy & outbound performance  
+
+Why selected:  
+Shares actionable frameworks focused on improving outbound results through stronger offers.
+
+Content reference:  
+Posts on offer design, guarantees, and reducing buyer risk.
+
+Key insight:  
+A strong offer has more impact on results than tools, copy, or AI.
+
+Reasoning:  
+He repeatedly emphasizes that weak offers cannot be fixed by better execution.
+
+---
+
+## Tristan Pelligrino
+Platform: LinkedIn  
+Link: https://www.linkedin.com/in/tristanpelligrino/  
+Focus: B2B marketing systems & AI adoption  
+
+Why selected:  
+Provides insights on how teams adopt and operationalize new tools and workflows.
+
+Content reference:  
+Posts on AI adoption and workflow changes in agencies.
+
+Key insight:  
+The biggest constraint in scaling systems is adoption, not access to tools.
+
+Reasoning:  
+He consistently highlights execution and behavior change as key performance drivers.
+
+---
+
+## Daniel Fazio
+Platform: LinkedIn  
+Link: https://www.linkedin.com/in/danielfazio/  
+Focus: Outbound monetization & growth strategy  
+
+Why selected:  
+Focuses on aligning outbound performance with revenue models and business outcomes.
+
+Content reference:  
+Posts on performance-based pricing vs retainers.
+
+Key insight:  
+Revenue models should scale with the value created by outbound systems.
+
+Reasoning:  
+He emphasizes that monetization strategy directly impacts long-term growth potential.
+
+---
+
+## Justin Welsh
+Platform: LinkedIn  
+Link: https://www.linkedin.com/in/justinwelsh/  
+Focus: Audience building & authority in B2B  
+
+Why selected:  
+Builds large-scale audience and connects trust with business growth.
+
+Content reference:  
+Posts on lifestyle-driven business and audience trust.
+
+Key insight:  
+Trust and credibility significantly improve conversion in outbound and inbound channels.
+
+Reasoning:  
+His content consistently links authority and audience trust to better business outcomes.
